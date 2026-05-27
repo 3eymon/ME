@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Seyed Mohsen Mousavi | Full-Stack Developer
 
-## Getting Started
+🎉 **Welcome to my portfolio!** This is where I showcase my skills, experience, and projects as a **Full-Stack Developer** specializing in modern web technologies.
 
-First, run the development server:
+🔗 **Live Demo:** (https://xseyed.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Preview
+![Portfolio Preview](./public/screenshot.jpeg)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Technologies & Skills
+- ⚡ **Frontend:**  Next.js, TypeScript, Tailwind CSS
+- 🎨 **UI/UX:** Responsive Design, Web Performance Optimization
+- 🔍 **SEO & Accessibility:** Search Engine Optimization, Best Practices
+- 🚀 **Deployment:** Vercel, CI/CD
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ⭐ Support the Project
+If you like this project, please **give it a star (⭐) on GitHub** and share it with others! 🚀
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 [GitHub Repository](https://github.com/seyed-mohsen-mousavi/ME)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📞 Contact Me
+📧 **Email:** [1mr.rooter@example.com](1mr.rooter3@gmail.com)  
+🐦 **Twitter:** [@nimchePower](https://x.com/nimchePower)  
+💼 **LinkedIn:** [xseyed](https://www.linkedin.com/in/xseyed)  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+🚀 Built with **Next.js** & **Tailwind CSS** | Hosted on **Vercel**

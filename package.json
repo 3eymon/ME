@@ -9,19 +9,45 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.0.0",
+    "@fortawesome/free-solid-svg-icons": "^7.0.0",
+    "@fortawesome/react-fontawesome": "^0.2.3",
+    "@heroui/react": "^2.8.2",
+    "@tiptap/extension-bullet-list": "^3.13.0",
+    "@tiptap/extension-code-block-lowlight": "^3.13.0",
+    "@tiptap/extension-history": "^3.13.0",
+    "@tiptap/extension-image": "^3.13.0",
+    "@tiptap/extension-link": "^3.13.0",
+    "@tiptap/extension-ordered-list": "^3.13.0",
+    "@tiptap/extension-text-align": "^3.13.0",
+    "@tiptap/react": "^3.13.0",
+    "@tiptap/starter-kit": "^3.13.0",
+    "axios": "^1.11.0",
+    "framer-motion": "^12.23.12",
+    "gsap": "^3.13.0",
+    "html-react-parser": "^5.2.6",
+    "lowlight": "^3.3.0",
+    "material-theme": "github:Binaryify/OneDark-Pro",
+    "mouse-follower": "^1.1.2",
+    "next": "^15.5.7",
+    "prism-react-renderer": "^2.4.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.4.6"
+    "react-icons": "^5.5.0",
+    "react-lazy-load-image-component": "^1.6.3",
+    "sanitize-html": "^2.17.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "@types/react-lazy-load-image-component": "^1.6.4",
+    "@types/sanitize-html": "^2.16.0",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
