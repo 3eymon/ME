@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+import { motion, type Variants } from "framer-motion";
 import { Links } from "../../types";
 import { Tooltip } from "@heroui/react";
 
@@ -7,7 +7,7 @@ type HeroSectionsProps = {
   socialLinks: Links[];
 };
 
-const containerVariants = {
+const containerVariants: Variants = {
   hidden: {},
   visible: {
     transition: {
@@ -16,7 +16,7 @@ const containerVariants = {
   },
 };
 
-const itemVariants = {
+const itemVariants: Variants = {
   hidden: { opacity: 0, y: 24, filter: "blur(10px)" },
   visible: {
     opacity: 1,
@@ -38,7 +38,6 @@ function HeroSections({ socialLinks }: HeroSectionsProps) {
         initial="hidden"
         animate="visible"
       >
-        {/* Heading */}
         <motion.div
           className="mb-12 flex flex-col items-center text-center md:items-start md:text-left"
           variants={itemVariants}
@@ -65,7 +64,6 @@ function HeroSections({ socialLinks }: HeroSectionsProps) {
           </p>
         </motion.div>
 
-        {/* Content */}
         <div className="grid gap-10 md:grid-cols-2 md:items-start">
           <motion.div variants={itemVariants} className="max-w-xl">
             <p className="text-sm leading-7 text-neutral-500 sm:text-base">
@@ -113,13 +111,12 @@ function HeroSections({ socialLinks }: HeroSectionsProps) {
           </motion.div>
         </div>
 
-        {/* Social Links */}
         <motion.div
           variants={itemVariants}
           className="mt-14 flex items-center justify-center md:justify-start"
         >
           <div className="flex items-center gap-6">
-            {socialLinks.map(({ icon: Icon, href, label }) => (
+            {socialLinks.map(({ icon: Icon, href, label } : any) => (
               <motion.a
                 key={href}
                 href={href}
