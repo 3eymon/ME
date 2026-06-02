@@ -84,7 +84,7 @@ export default function Navbar({
             className="fixed bottom-4 right-4 z-50"
           >
             <Link
-              href={"https://github.com/seyed-mohsen-mousavi/ME"}
+              href={"https://github.com/3eymon/ME"}
               className="give-star group"
               target="_blank"
               rel="noopener noreferrer"

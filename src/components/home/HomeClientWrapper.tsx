@@ -1,14 +1,27 @@
 "use client";
 import React, { useRef } from "react";
-import { RiTelegram2Fill, RiTailwindCssFill } from "react-icons/ri";
+import {
+  RiTelegram2Fill,
+  RiTailwindCssFill,
+  RiMoneyPoundBoxLine,
+} from "react-icons/ri";
 import {
   FaGithub,
   FaLinkedinIn,
   FaReact,
   FaNode,
   FaGitAlt,
+  FaPython,
 } from "react-icons/fa";
-import { SiNextdotjs, SiAdobephotoshop, SiMongodb } from "react-icons/si";
+import {
+  SiNextdotjs,
+  SiAdobephotoshop,
+  SiMongodb,
+  SiNestjs,
+  SiNginx,
+  SiMysql,
+  SiExpo,
+} from "react-icons/si";
 import { BiLogoTypescript, BiLogoPostgresql } from "react-icons/bi";
 import { SiExpress } from "react-icons/si";
 import { LiaDocker } from "react-icons/lia";
@@ -25,21 +38,25 @@ import Navbar from "../Navbar";
 import Link from "next/link";
 import Projects from "./Projects";
 const skillData = [
-  { icon: FaReact, value: 89 },
+  { icon: FaReact, value: 85 },
   { icon: SiNextdotjs, value: 98 },
+  { icon: SiNestjs, value: 80 },
   { icon: BiLogoTypescript, value: 100 },
   { icon: BiLogoPostgresql, value: 90 },
+  { icon: SiMysql, value: 70 },
   { icon: SiMongodb, value: 100 },
   { icon: FaNode, value: 90 },
   { icon: SiExpress, value: 95 },
-  { icon: SiAdobephotoshop, value: 100 },
   { icon: FaGitAlt, value: 88 },
   { icon: RiTailwindCssFill, value: 100 },
   { icon: LiaDocker, value: 50 },
+  { icon: SiNginx, value: 50 },
+  { icon: SiExpo, value: 95 },
+  { icon: FaPython, value: 20 },
 ];
 const socialLinks: Links[] = [
   { icon: RiTelegram2Fill, href: "https://t.me/XSeyed" },
-  { icon: FaGithub, href: "https://github.com/seyed-mohsen-mousavi" },
+  { icon: FaGithub, href: "https://github.com/3eymon" },
   {
     icon: FaLinkedinIn,
     href: "https://www.linkedin.com/in/seyed-mohsen-840941277/",

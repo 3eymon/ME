@@ -67,7 +67,7 @@ const projects: Project[] = [
   {
     id: 4,
     name: "Rick And Morty",
-    link: "https://seyed-mohsen-mousavi.github.io/Rick-Morty/",
+    link: "https://3eymon.github.io/Rick-Morty/",
     image: "/images/p-rick.jpg",
     technologies: [
       { icon: <FaReact className="size-5" />, name: "React" },

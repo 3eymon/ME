@@ -8,6 +8,8 @@ import {
   faCogs,
   faMobileAlt,
   faGlobe,
+  faShieldAlt,
+  faComments,
 } from "@fortawesome/free-solid-svg-icons";
 import Image from "next/image";
 export default function Timeline() {
@@ -61,10 +63,24 @@ export default function Timeline() {
     },
     {
       year: "2025",
-      title: "Future Goals",
+      title: "Building Darsresan",
       description:
-        "Focus on mastering React Native, contribute to open-source projects, and continue refining backend architecture with TypeScript and PostgreSQL.",
+        "Started building a messaging platform called Darsresan and gained more experience in full-stack development with modern technologies.",
       icon: faGlobe,
+    },
+    {
+      year: "2026",
+      title: "Expanding the Project",
+      description:
+        "Continued developing Darsresan during 2025–2026, improving its features, architecture, and overall user experience.",
+      icon: faComments,
+    },
+    {
+      year: "2027",
+      title: "Security & Server Path",
+      description:
+        "Plan to focus on server-side technologies, infrastructure, and cybersecurity to strengthen backend and system-level skills.",
+      icon: faShieldAlt,
     },
   ];
 
