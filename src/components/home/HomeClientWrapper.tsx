@@ -15,7 +15,6 @@ import {
 } from "react-icons/fa";
 import {
   SiNextdotjs,
-  SiAdobephotoshop,
   SiMongodb,
   SiNestjs,
   SiNginx,
