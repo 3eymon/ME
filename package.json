@@ -24,7 +24,7 @@
     "@tiptap/starter-kit": "^3.13.0",
     "axios": "^1.11.0",
     "framer-motion": "^12.23.12",
-    "gsap": "^3.13.0",
+    "gsap": "^3.15.0",
     "html-react-parser": "^5.2.6",
     "lowlight": "^3.3.0",
     "material-theme": "github:Binaryify/OneDark-Pro",
@@ -35,7 +35,8 @@
     "react-dom": "19.1.0",
     "react-icons": "^5.5.0",
     "react-lazy-load-image-component": "^1.6.3",
-    "sanitize-html": "^2.17.0"
+    "sanitize-html": "^2.17.0",
+    "three": "^0.184.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -45,6 +46,7 @@
     "@types/react-dom": "^19",
     "@types/react-lazy-load-image-component": "^1.6.4",
     "@types/sanitize-html": "^2.16.0",
+    "@types/three": "^0.184.1",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "tailwindcss": "^4",

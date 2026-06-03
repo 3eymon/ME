@@ -27,9 +27,9 @@ export default function Navbar({
     <>
       <nav
         ref={navRef}
-        className={`static z-10 flex w-full flex-row-reverse items-center justify-between py-2 py-8`}
+        className={`static z-10 flex w-full flex-row-reverse items-center justify-between py-8`}
       >
-        <ul className="flex items-center gap-10 text-sm sm:text-base">
+        <ul className="flex items-center gap-4 sm:gap-5 md:gap-7 lg:gap-10 text-sm sm:text-base">
           <motion.li
             initial={{ opacity: 0, y: -100 }}
             animate={{ opacity: 1, y: 0 }}
