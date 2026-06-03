@@ -4,7 +4,7 @@ export const config = {
     matcher: ["/admin-panel/:path*"],
 };
 
-export function middleware(req: NextRequest) {
+export function proxy(req: NextRequest) {
     const ADMIN_KEY = process.env.ADMIN_KEY!;
     const url = req.nextUrl;
 
