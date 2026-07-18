@@ -2,11 +2,11 @@
 
 🎉 **Welcome to my portfolio!** This is where I showcase my skills, experience, and projects as a **Full-Stack Developer** specializing in modern web technologies.
 
-🔗 **Live Demo:** (https://xseyed.vercel.app/)
+🔗 **Live Demo:** (https://xmohsen.vercel.app/)
 
 ---
 
-## 📸 Preview
+## 📸 Preview (old version)
 ![Portfolio Preview](./public/screenshot.jpeg)
 
 ---
@@ -23,14 +23,14 @@
 ## ⭐ Support the Project
 If you like this project, please **give it a star (⭐) on GitHub** and share it with others! 🚀
 
-🔗 [GitHub Repository](https://github.com/seyed-mohsen-mousavi/ME)
+🔗 [GitHub Repository](https://github.com/3eymon/ME)
 
 ---
 
 ## 📞 Contact Me
 📧 **Email:** [1mr.rooter@example.com](1mr.rooter3@gmail.com)  
 🐦 **Twitter:** [@nimchePower](https://x.com/nimchePower)  
-💼 **LinkedIn:** [xseyed](https://www.linkedin.com/in/xseyed)  
+💼 **LinkedIn:** [xseyed](https://www.linkedin.com/in/3eymon)  
 
 ---
 
