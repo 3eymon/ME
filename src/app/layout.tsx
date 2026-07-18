@@ -5,7 +5,7 @@ import CustomCursor from "../components/CustomCursor";
 import Providers from "./providers";
 
 export const metadata: Metadata = {
-  title: "Seyed Mohsen Mousavi | Full-Stack Developer",
+  title: "Mohsen Mousavi | Full-Stack Developer",
   description: `I am a highly skilled full-stack developer with expertise in modern frameworks like React and Next.js. 
     With extensive experience in TypeScript, Tailwind CSS, PostgreSQL, and Node.js, I specialize in building scalable and high-performance applications. 
     My deep understanding of UI/UX principles allows me to craft intuitive and visually appealing user experiences. 
