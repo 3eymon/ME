@@ -1,4 +1,4 @@
-# 🚀 Seyed Mohsen Mousavi | Full-Stack Developer
+# 🚀 Mohsen Mousavi | Full-Stack Developer
 
 🎉 **Welcome to my portfolio!** This is where I showcase my skills, experience, and projects as a **Full-Stack Developer** specializing in modern web technologies.
 
